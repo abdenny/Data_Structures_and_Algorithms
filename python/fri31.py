@@ -18,6 +18,8 @@ for x in range(1, 1001):
                 print(z)
                 print(x * y * z)
                 break
+
+
 # 3.
 # list1 = []
 # list2 = []
